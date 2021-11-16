@@ -1,1 +1,43 @@
-{"program":{},"items":{},"env":"devnet","cacheName":"temp"}
+{
+    "program": {
+        "uuid": "98Xwdx",
+        "config": "98XwdxDvZJiE1DEjLXdF37hjSha5VpfexZUNbpD8y4fZ"
+    },
+    "items": {
+        "0": {
+            "link": "https://arweave.net/MFnSoOOm5HC9RdFjOu_4C7sAKMUCMSw3yB4flSNIaP4",
+            "name": "Best Collection #0",
+            "onChain": true
+        },
+        "1": {
+            "link": "https://arweave.net/RZbuVLlKQ-hQo3w3v36B1FVTtiwu1LvEYPIDUC1xSRs",
+            "name": "Best Collection #1",
+            "onChain": true
+        },
+        "2": {
+            "link": "https://arweave.net/uWf5QnkjIZwaxSV_sNlrKm1l2AqQmog4roJ0fumAW-Y",
+            "name": "Best Collection #2",
+            "onChain": true
+        },
+        "3": {
+            "link": "https://arweave.net/cESZZUL5D4ph-HhLlzHCLLxNnATDHpbmuKlg4G3IwbQ",
+            "name": "Best Collection #3",
+            "onChain": true
+        },
+        "4": {
+            "link": "https://arweave.net/u5LQYfgRteTsVIk4RY-rqQqQNVNmoyLh2mcf9xhy0sE",
+            "name": "Best Collection #4",
+            "onChain": true
+        },
+        "5": {
+            "link": "https://arweave.net/Uk0CDVvlOsmpKQYUV3iNsuwHtjeca1UVTrP0RhEt5sg",
+            "name": "Best Collection #5",
+            "onChain": true
+        }
+    },
+    "env": "devnet",
+    "cacheName": "temp",
+    "authority": "DeU8K1ycehYUDVaSh85N7UPoQGwNMtZYfY7tpU27AyCj",
+    "candyMachineAddress": "324qRTPfZCTusX698cNQMqPNfWCCsxCG5GXttJvdEBiB",
+    "startDate": 1637030556.937
+}

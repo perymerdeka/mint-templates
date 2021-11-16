@@ -1,10 +1,10 @@
 {
-  "name": "Best Collection #2",
+  "name": "Best Collection #3",
+  "symbol": "YC",
   "description": "The Nft Collection",
-  "image": "ipfs://NewUriToReplace/2.png",
-  "dna": "095fde8bc8cb8a17b3ee5ae69893ca36e83cc6c8",
-  "edition": 2,
-  "date": 1636886589437,
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "edition": 3,
   "attributes": [
     {
       "trait_type": "Background",
@@ -16,7 +16,7 @@
     },
     {
       "trait_type": "Eye color",
-      "value": "Pink"
+      "value": "Yellow"
     },
     {
       "trait_type": "Iris",
@@ -28,12 +28,26 @@
     },
     {
       "trait_type": "Bottom lid",
-      "value": "Low"
+      "value": "Middle"
     },
     {
       "trait_type": "Top lid",
       "value": "Low"
     }
   ],
-  "compiler": "HashLips Art Engine"
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
+        "share": 100
+      }
+    ]
+  }
 }
